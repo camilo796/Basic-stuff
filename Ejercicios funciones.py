@@ -1,7 +1,7 @@
 #####################################
 #### PART 9: FUNCTION EXERCISES #####
 #####################################
-
+'SIUUUUUUUUUUUUU'
 
 # Complete the tasks below by writing functions! Keep in mind, these can be
 # really tough, its all about breaking the problem down into smaller, logical
@@ -75,7 +75,7 @@ end_other('ilocam','cam')
 #####################
 ## -- PROBLEM 4 -- ##
 #####################
-
+'Bueh'
 # Given a string, return a string where for every char in the original,
 # there are two chars.
 
