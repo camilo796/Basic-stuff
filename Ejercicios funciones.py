@@ -46,7 +46,7 @@ def stringBits(str):
 
 stringBits('Camilo')
 
-
+HOOOOOOLALALLLLAAAAAAAAAAAA
 
 #####################
 ## -- PROBLEM 3 -- ##
