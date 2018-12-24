@@ -1,0 +1,6 @@
+echo "# Basic-stuff" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Zendrians/Basic-stuff.git
+git push -u origin master
